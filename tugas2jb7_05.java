@@ -10,6 +10,7 @@ public class tugas2jb7_05 {
             jenis = sc.nextInt();
 
             if (jenis == 1 || jenis == 2){
+                
                 System.out.print("Masukan durasi parkir (jam): ");
                 durasi = sc.nextInt();
 
